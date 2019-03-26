@@ -86,3 +86,7 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
     list-style-type: none;
     padding-left: 0;
   }
+  .header img {
+    display: block;
+    margin: 0 auto 15px auto;
+  }
